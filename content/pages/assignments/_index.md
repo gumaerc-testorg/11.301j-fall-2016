@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains instructions for completing the assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 9caeb86d-eb09-fbb6-4a82-c03df058ae9a
 ---
@@ -12,9 +16,9 @@ Document your own thoughts, comments, and challenges on the readings and class m
 Assignment 1
 ------------
 
-[Urban Change]({{< baseurl >}}/pages/assignments/assignment-1): Trace the evolution of one place in Boston through time, and predict its future.
+{{% resource_link 9ac1d2e7-2c0c-7606-c5bd-e4ac399a9537 "Urban Change" %}}: Trace the evolution of one place in Boston through time, and predict its future.
 
 Assignment 2
 ------------
 
-[Urban Plans]({{< baseurl >}}/pages/assignments/assignment-2-urban-plans): Evaluate an urban design intervention of your choice, anywhere in the world, to answer the question: Was this a good plan?
+{{% resource_link a6c1fa0f-d417-7efe-e116-9e23b1fb7c57 "Urban Plans" %}}: Evaluate an urban design intervention of your choice, anywhere in the world, to answer the question: Was this a good plan?

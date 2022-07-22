@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains information about completing assignment 2.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 9caeb86d-eb09-fbb6-4a82-c03df058ae9a
 title: 'Assignment 2: Urban Plans'
 uid: a6c1fa0f-d417-7efe-e116-9e23b1fb7c57

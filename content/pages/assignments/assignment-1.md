@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains information about the first assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 9caeb86d-eb09-fbb6-4a82-c03df058ae9a
 title: 'Assignment 1: Urban Change'
 uid: 9ac1d2e7-2c0c-7606-c5bd-e4ac399a9537
