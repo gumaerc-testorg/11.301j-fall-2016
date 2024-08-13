@@ -320,7 +320,7 @@ Graham, Stephen. "[Cities as Battlespace: The New Military Urbanism](https://doi
 
 Chapter 5 in Low, Setha, and Neil Smith, eds. *The Politics of Public Space*. Routledge, 2013. 9780415951395.
 
-Cases from Cairo, Oakland, Jerusalem, Lahore, and Beirut in "[Militarized Cities." *The Funambulist* no. 1. September - November 2015.](https://thefunambulist.net/magazine/militarized-cities)
+Cases from Cairo, Oakland, Jerusalem, Lahore, and Beirut in ["Militarized Cities."](https://thefunambulist.net/magazine/01-militarized-cities) *The Funambulist* no. 1. September - November 2015.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 27
