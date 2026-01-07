@@ -32,7 +32,7 @@ To help you get started, you should obtain copies of the following:
 
 *   Whitehill, Walter Muir. _Boston: A Topographical History_. Belknap Press, 2000. ISBN: 9780674002685.
 *   Campbell, Robert, and Peter Vanderwarker. _Cityscapes of Boston: An American City Through Time_. Houghton Mifflin, 1992. ISBN: 9780395581193.
-*   {{% resource_link "eb9aaa35-30a1-458e-94a0-84b5bc37ddf5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Seasholes, Nancy S. _Gaining Ground: A History of Landmaking in Boston_. MIT Press, 2003. ISBN: 9780262194945.
-*   {{% resource_link "b26f3679-4752-4b36-9382-e34c94c5fa24" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Haglund, Karl. _Inventing the Charles River_. MIT Press, 2003. ISBN: 9780262083072.
+*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194945) Seasholes, Nancy S. _Gaining Ground: A History of Landmaking in Boston_. MIT Press, 2003. ISBN: 9780262194945.
+*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262083072) Haglund, Karl. _Inventing the Charles River_. MIT Press, 2003. ISBN: 9780262083072.
 
 We will discuss the assignment in class when you may be asked to make a brief presentation of your findings.
